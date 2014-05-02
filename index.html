@@ -39,7 +39,7 @@
 ///////////////Eventos Mapa//////////////////
 			departamentos.mouseover(function() { 
 				this.attr(hoverStyle);
-				this.attr({cursor:'pointer'})
+				this.attr({cursor:'pointer'});
 			});
 			/////////////////////////////////////////////
 			departamentos.mouseout(function() {
@@ -53,14 +53,23 @@
 				var bbx = this.getBBox();
 				console.log('departamentos',this.node.id,bbx.x,bbx.y)
 			
-				menu = generateMenu(paper,420,50,100,{key1:1,key2:2,key3:3},function(){});
+				menu = generateMenu(paper,420,50,100,{key1:1,key2:2,key3:3},function(k,v){ console.log('menu',k,v) });
 			});
 /////////////////////////////////////////////
 
-			migraciones.mouseover(function(){
+			migraciones.mouseover(function()
+			{
 				this.attr({cursor:'pointer'});
 				menu.remove();
 			});
+
+
+			menu.mouseover(function(){
+				this.attr({cursor:'pointer'});
+			})
+			
+
+
 
 
 			function delay(action)
