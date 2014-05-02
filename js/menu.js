@@ -17,6 +17,7 @@ function generateMenu(paper,x,y,width,items,callback)
 		var value = items[key];
 
 		menu.push(menuitem);
+		menu.push(menuitemtext);
 
 		ycont += width + spaceBetween;
 	}
