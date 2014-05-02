@@ -1,110 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="292.90363"
-   height="292.90363"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.47 r22583"
-   sodipodi:docname="departures.svg">
-  <defs
-     id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective10" />
-    <inkscape:perspective
-       id="perspective2824"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <inkscape:perspective
-       id="perspective3616"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-  </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="134.54425"
-     inkscape:cy="126.78539"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="1002"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-162.7589,-181.52698)">
-    <g
-       id="g3589">
-      <rect
-         inkscape:export-ydpi="600"
-         inkscape:export-xdpi="600"
-         inkscape:export-filename="D:\Users\jonas\Pictures\departure.png"
-         ry="19.969124"
-         y="189.02698"
-         x="170.2589"
-         height="277.90363"
-         width="277.90363"
-         id="rect3646"
-         style="fill:none;stroke:#000000;stroke-width:15;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         inkscape:export-ydpi="600"
-         inkscape:export-xdpi="600"
-         inkscape:export-filename="D:\Users\jonas\Pictures\departure.png"
-         y="415.99747"
-         x="194.10693"
-         height="18.246275"
-         width="135.61334"
-         id="rect2830"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-      <path
-         inkscape:export-ydpi="600"
-         inkscape:export-xdpi="600"
-         inkscape:export-filename="D:\Users\jonas\Pictures\departure.png"
-         sodipodi:nodetypes="ccscccccccc"
-         id="path3604"
-         d="m 202.56183,337.78146 38.7566,29.84748 166.45179,-105.02405 c 18.95121,-11.95741 1.10452,-37.81469 -17.67279,-25.72315 l -60.81706,38.97898 -106.90786,-17.88267 -19.10412,17.37969 85.08959,26.74023 -46.74229,29.5753 -21.54744,-5.35016 -17.50642,11.45835 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" sodipodi:docname="departures.svg" inkscape:version="0.47 r22583" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="292.904px"
+	 height="292.904px" viewBox="0 0 292.904 292.904" enable-background="new 0 0 292.904 292.904" xml:space="preserve">
+<defs>
+	
+	
+		<inkscape:perspective  sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective10">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" id="perspective2824">
+		</inkscape:perspective>
+	
+		<inkscape:perspective  sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" id="perspective3616">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  id="base" pagecolor="#ffffff" inkscape:zoom="1.979899" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:cx="134.54425" inkscape:cy="126.78539" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" inkscape:window-width="1280" inkscape:window-height="1002" inkscape:window-x="1912" inkscape:window-y="-8" inkscape:window-maximized="1">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-162.7589,-181.52698)" inkscape:groupmode="layer" inkscape:label="Ebene 1">
+	<g id="g3589">
+		
+			<path id="rect3646" inkscape:export-ydpi="600" inkscape:export-xdpi="600" inkscape:export-filename="D:\Users\jonas\Pictures\departure.png" fill="none" stroke="#000000" stroke-width="15" d="
+			M205.57,189.027h206.282c9.562,0,17.312,7.75,17.312,17.311V412.62c0,9.561-7.75,17.312-17.312,17.312H205.57
+			c-9.561,0-17.311-7.751-17.311-17.312V206.338C188.259,196.777,196.009,189.027,205.57,189.027z"/>
+		
+			<rect id="rect2830" x="208.932" y="385.779" inkscape:export-ydpi="600" inkscape:export-xdpi="600" inkscape:export-filename="D:\Users\jonas\Pictures\departure.png" width="117.558" height="15.817">
+		</rect>
+		
+			<path id="path3604" inkscape:export-ydpi="600" inkscape:export-xdpi="600" inkscape:export-filename="D:\Users\jonas\Pictures\departure.png" sodipodi:nodetypes="ccscccccccc" d="
+			M216.261,317.976l33.597,25.874l144.291-91.042c16.428-10.365,0.957-32.779-15.32-22.298l-52.721,33.79l-92.673-15.501
+			l-16.561,15.065l73.761,23.18l-40.519,25.637l-18.679-4.638L216.261,317.976L216.261,317.976z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 76.9519 285.4705)" font-family="'MyriadPro-Bold'" font-size="36">SALIDAS</text>
 </svg>
