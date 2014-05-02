@@ -2,7 +2,7 @@ function generateMenu(paper,x,y,width,items,callback)
 {
 	var menu 		  	= paper.set();
 
-	var spaceBetween = 10;
+	var spaceBetween 	= 10;
 
 	var ycont = y;
 
